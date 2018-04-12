@@ -16,7 +16,7 @@ exclude: [vendor]
 author:
   name: Aroon Chande
   title: Bioinformatics Scientist
-  address: 950 State St, Atlanta, Georgia
+  address: Georgia Tech, Atlanta, GA 30318
   email: mail@aroonchande.com
   link: https://aroonchande.com
   github: ar0ch
@@ -51,7 +51,7 @@ author:
     - education1:
       organization: Georgia Institute of Technology
       location: Atlanta, GA
-      degree: PhD (In progress) 
+      degree: PhD (In progress)
       major: Bioinformatics
       started: 2017
       duration: (2017 - Present)
