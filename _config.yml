@@ -49,28 +49,28 @@ author:
       description: Contracted protein purification and characterization.  User training for protein expression, purification and crystallization.  Development of custom protocols for in-house robotic liquid handlers
   educationHistory:
     - education1:
-      company: Georgia Institute of Technology
+      organization: Georgia Institute of Technology
       location: Atlanta, GA
       title: P,hD Bioinformatics (In progress))
       started: 2017
       duration: (2017 - Present)
       description: Studying the effects of human ancestry on disease burden in Colombia and South America.  Teaching and administrating classes in the Bioinformatics Masters program.  Development of bacterial typing schemes in collaboration with the Centers for Disease Control and Prevention
     - education2:
-      company: Georgia Institute of Technology
+      organization: Georgia Institute of Technology
       location: Atlanta, GA
       title: Master of Science, Bioinformatics
       started: 2015
       duration: (2015 - 2016)
       description: 
     - education3:
-      company: University of Iowa
+      organization: University of Iowa
       location: Iowa City, IA
       title: Bachellor of Science, Microbiology
       started: 2014
       duration: (2014 - 2015)
       description:
-    - education3:
-      company: University of Iowa
+    - education4:
+      organization: University of Iowa
       location: Iowa City, IA
       title: Bachellor of Science, Biology
       started: 2009
