@@ -16,7 +16,7 @@ exclude: [vendor]
 author:
   name: Aroon Chande
   title: Bioinformatics Scientist
-  address: Atlanta, Georgia
+  address: 950 State St, Atlanta, Georgia
   email: mail@aroonchande.com
   link: https://aroonchande.com
   github: ar0ch
@@ -51,28 +51,32 @@ author:
     - education1:
       organization: Georgia Institute of Technology
       location: Atlanta, GA
-      major: PhD Bioinformatics (In progress))
+      degree: PhD (In progress) 
+      major: Bioinformatics
       started: 2017
       duration: (2017 - Present)
       description: Studying the effects of human ancestry on disease burden in Colombia and South America.  Teaching and administrating classes in the Bioinformatics Master's program.  Development of bacterial typing schemes in collaboration with the Centers for Disease Control and Prevention
     - education2:
       organization: Georgia Institute of Technology
       location: Atlanta, GA
-      major: Master of Science Bioinformatics
+      degree: Master of Science
+      major: Bioinformatics
       started: 2015
       duration: (2015 - 2016)
       description: Developed bacterial analysis pipelines and products.  https://vibriocholera.com
     - education3:
       organization: University of Iowa
       location: Iowa City, IA
-      major: Bachelor of Science, Microbiology
+      degree: Bachelor of Science
+      major: Microbiology
       started: 2014
       duration: (2014 - 2015)
       description: Focusing on clinical microbiology and infectious disease
     - education4:
       organization: University of Iowa
       location: Iowa City, IA
-      major: Bachelor of Science, Biology
+      degree: Bachelor of Science
+      major: Biology
       started: 2009
       duration: (2009 - 2013)
       description: Focusing on protein biochemistry
