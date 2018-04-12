@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Aroon Chande's CV 
+description: Aroon Chande's CV 
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://www.aroonchan.de
+url: https://www.aroonchan.de
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-45174995-10
 
 # Build settings
 markdown: kramdown
@@ -14,72 +14,78 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  name: Aroon Chande
+  title: Bioinformatics Scientist
+  address: Atlanta, Georgia
+  email: mail@aroonchande.com
+  link: https://aroonchande.com
+  github: ar0ch
+  # linkedin: ddbullfrog
+  # twitter: ddbullfrog
+  gavatar: /assets/img/avatar.JPG
+  # stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Applied Bioinformatics Laboratory
+      location: 2 Ravinia Dr. Suite 1200, Atlanta GA 30346
+      title: Bioinformatics Scientist
+      started: 2016
+      duration: (2016 - Present)
+      description: 
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Georgia Institute of Technology
+      location: Atlanta, GA
+      title: PhD Student (Bioinformatics)
+      started: 2017
+      duration: (2017 - Present)
+      description: 
+    - education2:
+      company: Georgia Institute of Technology
+      location: Atlanta, GA
+      title: Master of Science, Bioinformatics
+      started: 2015
+      duration: (2015 - 2016)
+      description: 
+    - education3:
+      company: University of Iowa
+      location: Iowa City, IA
+      title: Bachellor of Science, Microbiology
+      started: 2014
+      duration: (2014 - 2015)
+      description:
+    - education3:
+      company: University of Iowa
+      location: Iowa City, IA
+      title: Bachellor of Science, Biology
+      started: 2009
+      duration: (2009 - 2013)
+      description: 
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
+      name: French
+      proficiency: Limited
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Spanish
+      proficiency: Limited
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Perl
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Bash / Linux
+      percentage: 100%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: Unix System Administration
+      percentage: 80%
     - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
+      name: R
       percentage: 90%
+    - skill5:
+      name: Python
+      percentage: 80%
