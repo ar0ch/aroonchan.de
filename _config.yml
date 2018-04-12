@@ -51,31 +51,31 @@ author:
     - education1:
       organization: Georgia Institute of Technology
       location: Atlanta, GA
-      title: P,hD Bioinformatics (In progress))
+      major: P,hD Bioinformatics (In progress))
       started: 2017
       duration: (2017 - Present)
-      description: Studying the effects of human ancestry on disease burden in Colombia and South America.  Teaching and administrating classes in the Bioinformatics Masters program.  Development of bacterial typing schemes in collaboration with the Centers for Disease Control and Prevention
+      description: Studying the effects of human ancestry on disease burden in Colombia and South America.  Teaching and administrating classes in the Bioinformatics Master's program.  Development of bacterial typing schemes in collaboration with the Centers for Disease Control and Prevention
     - education2:
       organization: Georgia Institute of Technology
       location: Atlanta, GA
-      title: Master of Science, Bioinformatics
+      major: Master of Science, Bioinformatics
       started: 2015
       duration: (2015 - 2016)
-      description: 
+      description: Developed bacterial analysis pipelines and products.  https://vibriocholera.com
     - education3:
       organization: University of Iowa
       location: Iowa City, IA
-      title: Bachellor of Science, Microbiology
+      major: Bachelor of Science, Microbiology
       started: 2014
       duration: (2014 - 2015)
-      description:
+      description: Focusing on clinical microbiology and infectious disease
     - education4:
       organization: University of Iowa
       location: Iowa City, IA
-      title: Bachellor of Science, Biology
+      major: Bachelor of Science, Biology
       started: 2009
       duration: (2009 - 2013)
-      description: 
+      description: Focusing on protein biochemistry
   languages:
     - language1:
       name: English
