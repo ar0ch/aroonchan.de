@@ -22,19 +22,19 @@ I TA the Ms Bioinformatics capstone class at Georgia Tech
 
 I also help design and deliver 40+ 2- and 4- workforce development courses.  More information about these courses can be found on the [Applied Bioinformatics Laboratory](http://abil.ihrc.com/Training)'s website.
 
-| Modules                                                    | Submodules                               |
-|------------------------------------------------------------|------------------------------------------|
-| Introduction to Scientific Computing                       | Introduction to Sequence Storage Formats |
-| Introduction to Computational Microbial   Genomics         | Sequence Alignments                      |
-| Computational Sequence Analysis                            | Bioinformatics Programming Basics        |
-| Introduction to Bioinformatic Databases                    | Introduction to Bioinformatic Databases  |
-| Comparative Genomics                                       | Computational Phylogenetics              |
-| Genomic Approaches to Molecular   Epidemiology and Typing  | MLST Based Molecular Epidemiology        |
-| Clinical Metagenomics                                      | Introduction to NCBI                     |
-| The National Center for Biotechnology   Information (NCBI) | Protein Functional Annotation            |
-| Perl for Bioinformatics Programming                        | Intermediate Bioinformatics Programming  |
-| Next-Generation Sequencing                                 | Sequence Visualization                   |
-| Introduction to Computational Genomics                     | Gene Prediction                          |
-| High-Performance and Cluster Computing                     | Comparative Genomics                     |
-|                                                            | Genome Assembly I                        |
-|                                                            | Genome Assembly II                       |
+#| Modules                                                    | Submodules                               |
+#|------------------------------------------------------------|------------------------------------------|
+#| Introduction to Scientific Computing                       | Introduction to Sequence Storage Formats |
+#| Introduction to Computational Microbial   Genomics         | Sequence Alignments                      |
+#| Computational Sequence Analysis                            | Bioinformatics Programming Basics        |
+#| Introduction to Bioinformatic Databases                    | Introduction to Bioinformatic Databases  |
+#| Comparative Genomics                                       | Computational Phylogenetics              |
+#| Genomic Approaches to Molecular   Epidemiology and Typing  | MLST Based Molecular Epidemiology        |
+#| Clinical Metagenomics                                      | Introduction to NCBI                     |
+#| The National Center for Biotechnology   Information (NCBI) | Protein Functional Annotation            |
+#| Perl for Bioinformatics Programming                        | Intermediate Bioinformatics Programming  |
+#| Next-Generation Sequencing                                 | Sequence Visualization                   |
+#| Introduction to Computational Genomics                     | Gene Prediction                          |
+#| High-Performance and Cluster Computing                     | Comparative Genomics                     |
+#|                                                            | Genome Assembly I                        |
+#|                                                            | Genome Assembly II                       |
