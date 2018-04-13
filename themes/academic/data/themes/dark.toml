@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Dark"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "hsl(192, 61%, 46%%)"
+primary_light = "hsl(339, 90%, 78%)"
+primary_dark = "hsl(192, 61%, 46%)"
+
+# Menu
+menu_primary = "#111"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#11111"
+
+# Home sections
+home_section_odd = "#111"
+home_section_even = "#19222C"
