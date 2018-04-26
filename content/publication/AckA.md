@@ -3,8 +3,7 @@ title = "Identification and characterization of AckA-dependent protein acetylati
 date = "2017-07-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Post, D.M.B.", "Schilling, B.", "Reinders, L. M.", "DaSouza, A. K.", "Ketterer, M. R.", "Kiel, S. J.", "Chande, A.
-T.", "Apicella, M. A.", "Gibson, B. W"]
+authors = [ "Post, D.M.B.", "Schilling, B.", "Reinders, L. M.", "DaSouza, A. K.", "Ketterer, M. R.", "Kiel, S. J.", "Chande, A. T.", "Apicella, M. A.", "Gibson, B. W"]
 
 
 # Publication type.
