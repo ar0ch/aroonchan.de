@@ -1,6 +1,6 @@
 +++
 title = "Bioconda: A sustainable and comprehensive software distribution for the life sciences"
-date = "2019-05-03"
+date = "2018-05-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dale, R.", "Gruning, B.", "Sjodin, A.", "Rowe, J.", "Chapman, B. A.", "Tomkins-Tinch, C. H.", ". . . Chande, A. T. . . .", "KÃűster, J"]
@@ -17,8 +17,8 @@ authors = ["Dale, R.", "Gruning, B.", "Sjodin, A.", "Rowe, J.", "Chapman, B. A."
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Nature Methods"
+publication_short = "*NatMeth*"
 
 # Abstract and optional shortened version.
 abstract = "We present Bioconda (https://bioconda.github.io), a distribution of bioinformatics software for the lightweight, multi-platform and language-agnostic package manager Conda. Currently, Bioconda offers a collection of over 3000 software packages, which is continuously maintained, updated, and extended by a growing global community of more than 200 contributors. Bioconda improves analysis reproducibility by allowing users to define isolated environments with defined software versions, all of which are easily installed and managed without administrative privileges."
