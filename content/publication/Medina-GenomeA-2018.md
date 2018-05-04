@@ -1,5 +1,5 @@
 +++
-title = "Genome sequences of 15 Klebsiella spp. isolates from sugarcane fields in Colombia’s Cauca Valley."
+title = "Genome sequences of 15 Klebsiella spp. isolates from sugarcane fields in Colombia’s Cauca Valley"
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

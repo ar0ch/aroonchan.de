@@ -1,5 +1,5 @@
 +++
-title = "GlobAl Distribution of GEnetic Traits (GADGET) web server: polygenic trait scores worldwide."
+title = "GlobAl Distribution of GEnetic Traits (GADGET) web server: polygenic trait scores worldwide"
 date = "2018-05-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

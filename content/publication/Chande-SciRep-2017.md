@@ -1,5 +1,5 @@
 +++
-title = "Influence of genetic ancestry and socioeconomic status on type 2 diabetes in the diverse Colombian populations of Chocó and Antioquia."
+title = "Influence of genetic ancestry and socioeconomic status on type 2 diabetes in the diverse Colombian populations of Chocó and Antioquia"
 date = "2017-11-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
