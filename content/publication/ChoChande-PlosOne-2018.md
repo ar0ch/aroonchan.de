@@ -3,7 +3,7 @@ title = "Characterization of a nontypeable Haemophilus influenzae Thermonuclease
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cho, C.", Chande, A.T.", "Gakhar, L.", "Hunt, J.", "Ketterer, M. R.", "Apicella, M. A."]
+authors = ["Cho, C.", "Chande, A.T.", "Gakhar, L.", "Hunt, J.", "Ketterer, M. R.", "Apicella, M. A."]
 
 # Publication type.
 # Legend:
