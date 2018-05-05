@@ -2,7 +2,7 @@
   <div class="container">
     <p class="powered-by">
 
-      {{ with .Site.Copyright }}{{ end }}
+      {{ with .Site.Copyright }}{{ . | markdownify}} &middot; {{ end }}
 
       .
 
