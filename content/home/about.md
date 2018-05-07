@@ -43,5 +43,5 @@ weight = 5
 
 # Biography
 
-I'm a graduate student in the [Jordan Lab](http://jordan.biology.gatech.edu) at Georgia Tech and Bioinformatics Scientist at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  My PhD focuses on health and populations genomics in Colombia, South America.  Specifically studying the impacts of recent admixture and ancestry on health.  My work at the Applied Bioinformatics Lab (ABiL) involves the development of bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.  I also teach continuing education and workforce development courses with ABiL, working to bring bioinformatics into the life sciences.
+I'm a graduate student in the [Jordan Lab](http://jordan.biology.gatech.edu) at Georgia Tech and Bioinformatics Scientist at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  My PhD focuses on health and populations genomics in Colombia, South America.  Specifically, I study the impacts of recent admixture and ancestry on health.  My work at the Applied Bioinformatics Lab (ABiL) involves the development of bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.  I also teach continuing education and workforce development courses with ABiL, working to bring bioinformatics into the life sciences.
 
