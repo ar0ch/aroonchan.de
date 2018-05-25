@@ -35,7 +35,7 @@ selected = true
 projects = ["GADGET"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/pdf/Chande-NAT-2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -43,7 +43,7 @@ url_project = "https://gadget.biosci.gatech.edu/"
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1093/nar/gky415"
 
 # Does the content use math formatting?
 math = true
