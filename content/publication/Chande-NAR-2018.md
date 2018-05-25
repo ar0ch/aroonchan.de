@@ -35,7 +35,7 @@ selected = true
 projects = ["GADGET"]
 
 # Links (optional).
-url_pdf = "/pdf/Chande-NAT-2018.pdf"
+url_pdf = "/pdf/Chande-NAR-2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
