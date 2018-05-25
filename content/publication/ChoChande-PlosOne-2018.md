@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/pdf/Cho-PONE-2918.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1371/journal.pone.0197010"
 
 # Does the content use math formatting?
 math = true
