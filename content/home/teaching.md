@@ -16,9 +16,10 @@ weight = 60
 +++
 
 
-I TA the Ms Bioinformatics capstone class at Georgia Tech
+I help design and teach the MS Bioinformatics capstone classes at Georgia Tech
 
-- BIOL7210 Computation Genomics
+- BIOL7200 Programming for Bioinformatics  
+- BIOL7210 Computational Genomics  
 
-I also help design and deliver 40+ 2- and 4- workforce development courses.  More information about these courses can be found on the [Applied Bioinformatics Laboratory](http://abil.ihrc.com/Training)'s website.
+I also help design and deliver 40+ 2- and 4-day workforce development courses.  More information about these courses can be found on the [Applied Bioinformatics Laboratory](http://abil.ihrc.com/Training)'s website.
 

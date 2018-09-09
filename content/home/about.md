@@ -20,22 +20,22 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Bioinformatics"
+  course = "PhD Bioinformatics"
   institution = "Georgia Institute of Technology"
   year = "In progress"
 
 [[education.courses]]
-  course = "MSc in Bioinformatics"
+  course = "MSc Bioinformatics"
   institution = "Georgia Institute of Technology"
   year = 2016
 
 [[education.courses]]
-  course = "BSc in Microbiology"
+  course = "BSc Microbiology"
   institution = "University of Iowa"
   year = 2015
 
 [[education.courses]]
-  course = "BSc in Biology"
+  course = "BSc Biology"
   institution = "University of Iowa"
   year = 2013
  
