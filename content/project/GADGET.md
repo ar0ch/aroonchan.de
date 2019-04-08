@@ -32,4 +32,4 @@ math = false
 GADGET stands for **G**lob**A**l **D**istribution of **GE**netic **T**raits. The GADGET approach rests on the axioms that (1) human populations show striking variation for a wide variety of traits (phenotypes), and (2) virtually all human traits are heritable. The specific genetic variants that influence the expression of heritable human traits can be uncovered by genome-wide association studies (GWAS); hundreds of such studies have discovered thousands of trait-associated variants (alleles). It follows that analysis of the global variation of trait-associated alleles, i.e. how they are distributed among human populations and population groups, can shed light on the genetic basis of human phenotypic diversity. GADGET provides users with a visual platform for exploring the genetic basis of human diversity by calculating polygenic trait scores (PTS – see Learn page for more details) for numerous human traits and visualizing their distributions across global populations.
 
 
-![](http://aroonchan.de/img/grapicalabstract.png)
+![](https://aroonchan.de/img/grapicalabstract.png)
