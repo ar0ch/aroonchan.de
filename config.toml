@@ -259,7 +259,7 @@ privacy_pack = true
 
 [[menu.main]]
   name = "Blog"
-  url = "/posts 
+  url = "/posts"
   weight = 2
 
 [[menu.main]]
