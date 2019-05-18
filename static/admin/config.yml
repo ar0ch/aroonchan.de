@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "static/img/uploads"
 #public_folder: "static/img/
-ollections:
+collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "content/posts/" # The path to the folder where the documents are stored
