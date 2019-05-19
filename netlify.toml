@@ -1,11 +1,23 @@
 [build]
-  publish = "public/"
+  publish = "public"
   command = "hugo"
-  HUGO_VERSION = "0.40.2"
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
-#[context.production.environment]
 #  HUGO_VERSION = "0.40.2"
 #  HUGO_ENV = "production"
 #  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_VERSION = "0.40.2"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.40.2"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.branch-deploy]
+  HUGO_VERSION = "0.40.2"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
 
