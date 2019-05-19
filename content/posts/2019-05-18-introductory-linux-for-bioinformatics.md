@@ -6,4 +6,4 @@ thumbnail: /static/img/uploads/tux.png
 ---
 # Bioinformatics ♥ Linux
 
-Much of bioinfo
+Much of bioinformatics happens on the **command line**, an entirely text-based
