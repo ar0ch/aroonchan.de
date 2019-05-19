@@ -8,4 +8,4 @@ thumbnail: /img/helloworldbash.png
 
 ## 
 
-![Hello World!](/img/helloworldbash.png "Bash shell and Hello World")
+![Hello World!](/img/uploads/helloworldbash.png "Bash shell and Hello World")
