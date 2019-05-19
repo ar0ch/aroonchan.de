@@ -4,7 +4,7 @@ title: Introductory Linux for Bioinformatics
 date: 2019-05-19T00:07:31.150Z
 thumbnail: img/uploads/tux.png
 ---
-# Bioinformatics ♥ Linux
+# Bioinformatics ♥ *nix
 
 Much of bioinformatics happens on the **command line**, a text-based system for interacting with files, running commands and writing programs.  The command line can feel scary foe newcomers, you are likely used to the Window-Icon-Pointer-Mouse (**WIMP**) interface of most operating systems (like Windows or MacOS).  In WIMP, you use a _mouse_ to move a _pointer_ around the screen, clicking on and interacting with _windows_ and _icons_ as your work.  These graphics on the screen are often called **Graphical User Interfaces** (**GUIs**).  GUIs are convenient and even required for some of the tasks I do day to day in bioinformatics, such as editing figures in Illustrator or creating presentations in PowerPoint, but quickly get in the way of doing larger analyses.  
 
@@ -31,8 +31,8 @@ For one sample this is not too bad, but what about for tens or hundreds of sampl
 for i in reads/*_R1*.fastq.gz; do spades.pi --careful -1 $i -2 ${i/_R1_/_R2_} -o output/$(basename $i | cut -f1 -d_) -t 6; done
 ```
 
-The Bash oneliner (really a for-loop written on one line) can process all of the paired reads without user intervention.  Hopefully, this example illustrates why the command line is a powerful tool.  If not, I'll hopefully convince you as we continue through this series.  See the next post, "**Bash basics**" to get started with Bash, or the rest of the "Introductory Bioinformatics" posts to see what else we will cover.
+The Bash oneliner (really a for-loop written on one line) can process all of the paired reads without user intervention.  Hopefully, this example illustrates why the command line is a powerful tool.  If not, I'll keep trying to convince you as we continue through this series.  See the next post, "**Bash basics**" to get started with Bash, or the rest of the "Introductory Bioinformatics" posts to see what else we will cover.
 
-Those of you on MacOS, just open your Terminal.app from Spotlight (found in /Applications/Utilities/Terminal.app).  For those of you on Windows (hopefully, Windows 10), please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10), which provides a pretty good Linux environment straight in Windows running [Ubuntu](https://www.ubuntu.com/).  
+Those of you on MacOS, just open your Terminal.app from Spotlight (also found found in /Applications/Utilities/Terminal.app).  For those of you on Windows (hopefully, Windows 10), please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) from the Microsoft App Store, which provides a pretty good Linux environment straight in Windows running [Ubuntu](https://www.ubuntu.com/).  For those interested in a more fully fledged Linux system, consider installing [VirtualBox](https://www.virtualbox.org/) and then creating an Ubuntu VM.  For the rest of this series, I'll use a bash prompt on WSL.  A word of warning for MacOS users: MacOS is a different version (or _flavor_) of *nix, as such some commands work slightly differently.  I will try to point out there differences occur and how to work around them.  
 
 ![Install Ubuntu on Windows subsystem for linux](/img/uploads/wsl.png "Install Ubuntu on WSL")
