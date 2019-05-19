@@ -2,7 +2,7 @@
 layout: blog
 title: Introductory Linux for Bioinformatics
 date: 2019-05-19T00:07:31.150Z
-thumbnail: uploads/tux.png
+thumbnail: img/uploads/tux.png
 ---
 # Bioinformatics ♥ Linux
 
@@ -37,4 +37,4 @@ The Bash oneliner (really a for-loop written on one line) can process all of the
 
 Those of you on MaxOS, just open your Terminal.app from Spotlight (found in /Applications/Utilities/Terminal.app).  For those of you on Windows (hopefully, Windows 10), please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10), which provides a pretty good Linux environment straight in Windows running [Ubuntu](https://www.ubuntu.com/).  
 
-![Install Ubuntu on Windows subsystem for linux](/static/img/uploads/wsl.png "Install Ubuntu on WSL")
+![Install Ubuntu on Windows subsystem for linux](/img/uploads/wsl.png "Install Ubuntu on WSL")
