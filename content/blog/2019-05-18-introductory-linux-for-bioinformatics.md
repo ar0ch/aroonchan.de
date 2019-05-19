@@ -33,8 +33,6 @@ for i in reads/*_R1*.fastq.gz; do spades.pi --careful -1 $i -2 ${i/_R1_/_R2_} -o
 
 The Bash oneliner (really a for-loop written on one line) can process all of the paired reads without user intervention.  Hopefully, this example illustrates why the command line is a powerful tool.  If not, I'll hopefully convince you as we continue through this series.  See the next post, "**Bash basics**" to get started with Bash, or the rest of the "Introductory Bioinformatics" posts to see what else we will cover.
 
-
-
-Those of you on MaxOS, just open your Terminal.app from Spotlight (found in /Applications/Utilities/Terminal.app).  For those of you on Windows (hopefully, Windows 10), please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10), which provides a pretty good Linux environment straight in Windows running [Ubuntu](https://www.ubuntu.com/).  
+Those of you on MacOS, just open your Terminal.app from Spotlight (found in /Applications/Utilities/Terminal.app).  For those of you on Windows (hopefully, Windows 10), please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10), which provides a pretty good Linux environment straight in Windows running [Ubuntu](https://www.ubuntu.com/).  
 
 ![Install Ubuntu on Windows subsystem for linux](/img/uploads/wsl.png "Install Ubuntu on WSL")
