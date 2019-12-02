@@ -50,3 +50,7 @@ for n in nums
 end
 println("You need $tot units of fuel, accounting for fuel mass")
 ```
+
+## Rust
+
+Coming soon (TM)
