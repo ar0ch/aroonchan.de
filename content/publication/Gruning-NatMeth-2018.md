@@ -3,7 +3,7 @@ title = "Bioconda: A sustainable and comprehensive software distribution for the
 date = "2018-05-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dale, R.", "Gruning, B.", "Sjodin, A.", "Rowe, J.", "Chapman, B. A.", "Tomkins-Tinch, C. H.", ". . . Chande, A. T. . . .", "KÃűster, J"]
+authors = ["Dale, R.", "Gruning, B.", "Sjodin, A.", "Rowe, J.", "Chapman, B. A.", "Tomkins-Tinch, C. H.", ". . . Chande, A. T. . . .", "Köster, J"]
 
 # Publication type.
 # Legend:

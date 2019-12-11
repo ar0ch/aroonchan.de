@@ -1,5 +1,5 @@
 +++
-title = "Whole-Genome Sequences of 26 Vibrio cholerae Isolates"
+title = "Role of the nuclease of nontypeable Haemophilus influenzae in dispersal of organisms from biofilms"
 date = "2014-12-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
