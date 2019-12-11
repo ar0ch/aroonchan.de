@@ -3,7 +3,7 @@ title = "Analysis of Vibrio cholerae genomes identifies new type VI secretion sy
 date = "2019-12-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Crisan, C.V.", "Chande, A.T.", "Williams, K.", "Raghuram, V.", "Rishishwar, L.", "Steinbach, G.", "Watve, S.S.", "Yunker, P.", "Jordan, I.K., "Hammer, B.K."]
+authors = ["Crisan, C.V.", "Chande, A.T.", "Williams, K.", "Raghuram, V.", "Rishishwar, L.", "Steinbach, G.", "Watve, S.S.", "Yunker, P.", "Jordan, I.K.", "Hammer, B.K."]
 
 # Publication type.
 # Legend:
