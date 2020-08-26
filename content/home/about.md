@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Bioinformatics",
     "Human Genetics",
+    "Cancer Genomics",
     "Clinical Genomics",
     "Infectious Diseases",
-    "Microbial Pathogens",
     "Public Health"
   ]
 
@@ -22,7 +22,7 @@ weight = 5
 [[education.courses]]
   course = "PhD Bioinformatics"
   institution = "Georgia Institute of Technology"
-  year = "In progress"
+  year = "2020"
 
 [[education.courses]]
   course = "MSc Bioinformatics"
@@ -43,5 +43,5 @@ weight = 5
 
 # Biography
 
-I'm a graduate student in the [Jordan Lab](http://jordan.biology.gatech.edu) at Georgia Tech and Bioinformatics Scientist at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  My PhD focuses on health and populations genomics in Colombia, South America.  Specifically, I study the impacts of recent admixture and ancestry on health.  My work at the Applied Bioinformatics Lab (ABiL) involves the development of bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.  I also teach continuing education and workforce development courses with ABiL, working to bring bioinformatics into the life sciences.
+I'm a bioinformatics software developer at  [Seattle Genetics](https://www.seattlegenetics.com/) and Bioinformatics Scientist at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  My PhD focused on health and populations genomics in Colombia, South America and the impacts of recent admixture and ancestry on health.  At Seattle Genetics, I develop software and pipelines to enable data-driven development of next-generation cancer therapuetics.  My work with the Applied Bioinformatics Lab (ABiL) involves the development of bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.
 
