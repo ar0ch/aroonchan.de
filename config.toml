@@ -55,15 +55,15 @@ privacy_pack = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Applied Bioinformatics Laboratory", url = "http://abil.ihrc.com" }, {name="Jordan Lab", url="http://jordan.biology.gatech.edu"}, {name="Georgia Tech", url="http://www.gatech.edu"} ]
+  organizations = [  { name = "Seattle Genetics", url = "https://www.seattlegenetics.com/" }, { name = "Applied Bioinformatics Laboratory", url = "http://abil.ihrc.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "avatar.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "aroon_suit.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail@aroonchande.com"
-  address = "2200 EBB, Georgia Institute of Technology, Atlanta, GA 30332"
+  #address = "2200 EBB, Georgia Institute of Technology, Atlanta, GA 30332"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "515-981-6868"
-  skype = "chande.aroon"
+#  skype = "chande.aroon"
   #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -243,6 +243,11 @@ privacy_pack = true
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/aroon-chande-6087a3162/"
+    
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/atcbinf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -257,10 +262,10 @@ privacy_pack = true
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Blog"
-  url = "/blog"
-  weight = 2
+#[[menu.main]]
+#  name = "Blog"
+#  url = "/blog"
+#  weight = 2
 
 [[menu.main]]
   name = "Publications"
