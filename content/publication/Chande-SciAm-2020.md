@@ -3,8 +3,7 @@ title = "Online COVID-19 Dashboard Calculates How Risky Reopenings and Gathering
 date = "2020-05-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Weitz, J.S.", "Harris, M.", "Chande, A.T.", 
-, "Rishishwar, L." , "Jordan, I.K."]
+authors = ["Weitz, J.S.", "Harris, M.", "Chande, A.T.", "Rishishwar, L." , "Jordan, I.K."]
 
 # Publication type.
 # Legend:
