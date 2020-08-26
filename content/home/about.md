@@ -43,5 +43,5 @@ weight = 5
 
 # Biography
 
-I'm a bioinformatics software developer at  [Seattle Genetics](https://www.seattlegenetics.com/) and Bioinformatics Scientist at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  My PhD focused on health and populations genomics in Colombia, South America and the impacts of recent admixture and ancestry on health.  At Seattle Genetics, I develop software and pipelines to enable data-driven development of next-generation cancer therapuetics.  My work with the Applied Bioinformatics Lab (ABiL) involves the development of bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.
+I'm a bioinformatics software developer at  [Seattle Genetics](https://www.seattlegenetics.com/) and Scientific Advisor at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  At Seattle Genetics, I develop software and pipelines to enable data-driven development of next-generation cancer therapuetics.  At the Applied Bioinformatics Lab (ABiL), I developme bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.
 
