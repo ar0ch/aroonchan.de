@@ -58,7 +58,7 @@ privacy_pack = true
   organizations = [  { name = "Seattle Genetics", url = "https://www.seattlegenetics.com/" }, { name = "Applied Bioinformatics Laboratory", url = "http://abil.ihrc.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "aroon_suit.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail@aroonchande.com"
   #address = "2200 EBB, Georgia Institute of Technology, Atlanta, GA 30332"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -67,7 +67,7 @@ privacy_pack = true
   #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = "arch"
+  # keybase = "arch"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
