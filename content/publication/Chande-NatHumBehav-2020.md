@@ -54,8 +54,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "c19r.png"
-caption = "US COVID-19 Risk"
+image = ""
+caption = ""
 
 +++
 
