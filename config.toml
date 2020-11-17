@@ -6,11 +6,11 @@
 baseurl = "https://www.aroonchan.de/"
 
 # Title of your site
-title = "Aroon Chande"
+title = "Aroon T. Chande"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018-2020 Aroon Chande"
+copyright = "&copy; 2018-2020 Aroon T. Chande"
 
 theme = "academic"
 enableEmoji = true
