@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Nature Human Behaviour*"
-publication_short = "*nathumbehav*"
+publication_short = "*Nat Hum Behav*"
 
 # Abstract and optional shortened version.
 abstract = "Large events and gatherings, particularly those taking place indoors, have been linked to multitransmission events that have accelerated the pandemic spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). To provide real-time, geolocalized risk information, we developed an interactive online dashboard that estimates the risk that at least one individual with SARS-CoV-2 is present in gatherings of different sizes in the United States. The website combines documented case reports at the county level with ascertainment bias information obtained via population-wide serological surveys to estimate real-time circulating, per-capita infection rates. These rates are updated daily as a means to visualize the risk associated with gatherings, including county maps and state-level plots. The website provides data-driven information to help individuals and policy makers make prudent decisions (for example, increasing mask-wearing compliance and avoiding larger gatherings) that could help control the spread of SARS-CoV-2, particularly in hard-hit regions."
