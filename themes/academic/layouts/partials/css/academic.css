@@ -108,6 +108,10 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+a {
+  color: #4faeff;
+}
+
 a,
 h3.article-title a:hover {
   color: {{ .Get "primary" }};
