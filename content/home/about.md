@@ -38,5 +38,5 @@ weight = 5
 
 # Biography
 
-I'm a Bioinformatics Scientist at  [Seattle Genetics](https://www.seattlegenetics.com/) and Scientific Advisor at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  At Seattle Genetics, I develop software and pipelines to enable data-driven development of next-generation cancer therapuetics.  At the Applied Bioinformatics Lab (ABiL), I develop bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.
+I'm a Bioinformatics Scientist at  [Seagen](https://www.seattlegenetics.com/) and Scientific Advisor at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  At Seagen, I develop software and pipelines to enable data-driven development of next-generation cancer therapuetics.  At the Applied Bioinformatics Lab (ABiL), I develop bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.
 
