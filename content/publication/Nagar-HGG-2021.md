@@ -2,7 +2,6 @@
 title = "Genetic ancestry and ethnic identity in Ecuador"
 date = "2021-10-14"
 
-Shashwat DeepaliNagar12Andrew B.Conley234Aroon T.Chande123LavanyaRishishwar234ShivamSharma4LeonardoMariño-Ramírez24GabrielaAguinaga-Romero5FabricioGonzález-Andrade56I. KingJordan1236
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nagar, S.D.", "Conley, A.B.", "Chande, A.T.",  "Rishishwar, L.", "Sharma, S.", "Mariño-Ramírez, L.",  "Aguinaga-Romero, G.", "Jordan, I.K.", "Gallo, J.E."]

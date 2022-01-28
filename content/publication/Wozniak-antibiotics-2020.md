@@ -2,7 +2,6 @@
 title = "Absence of mgrB Alleviates Negative Growth Effects of Colistin Resistance in Enterobacter cloacae"
 date = "2016-11-01"
 
-Jessie E Wozniak, Aroon T Chande, Eileen M Burd, Victor I Band, Sarah W Satola, Monica M Farley, Jesse T Jacob, I King Jordan, David S Weiss
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Wozniak, J.E.","Chande, A.T.", "Burd, E.M.", "Band, V.I.", "Satola, S.W.", "Farley, M.M.", "Jacod, J.T.", "Jordan, I. K.", "Weiss, D.S."]
 
