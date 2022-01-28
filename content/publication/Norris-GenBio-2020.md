@@ -2,8 +2,6 @@
 title = "Admixture-enabled selection for rapid adaptive evolution in the Americas"
 date = "2020-02-07"
 
-Emily T. Norris, Lavanya Rishishwar, Aroon T. Chande, Andrew B. Conley, Kaixiong Ye, Augusto Valderrama-Aguirre & I. King Jordan 
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Norris, E.T.", "Rishishwar, L.", "Chande, A.T.", "Conley, A.B.", "Ye, K.", "Valderrama-Aguirre, A.", "Jordan, I.K."]
 # Publication type.
