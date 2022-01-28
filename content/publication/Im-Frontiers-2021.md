@@ -3,7 +3,6 @@ title = "The Impact of Ethnicity and Genetic Ancestry on Disease Prevalence and 
 date = "2021-10-13"
 
 
-Sung B Im, Sonali Gupta, Mani Jain, Aroon T Chande, Heather A Carleton, I King Jordan, Lavanya Rishishwar
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Im, S.B.", "Gupta, S.", "Jain, M.", "Chande, A.T.", "Carleton, H.A.", "Jordan, I.K.", "Rishishwar, L."]
 
