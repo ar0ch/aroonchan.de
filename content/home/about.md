@@ -38,5 +38,8 @@ weight = 5
 
 # Biography
 
-I'm a Bioinformatics Engineer at [Color](https://color.com/) and Scientific Advisor at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  At Color, I develop software and pipelines to clinical genetic testing and to support the [AllOfUs program](https://allofus.nih.gov/). At the Applied Bioinformatics Lab (ABiL), I develop bioinformatics methods for public health pathogen surveillance, metagenomics and industry research.
+I'm a Bioinformatics Engineer at [Color](https://color.com/) and Scientific Advisor at the [Applied Bioinformatics Laboratory](http://abil.ihrc.com).  At Color, I develop software and pipelines for clinical genetic testing and to support the [AllOfUs program](https://allofus.nih.gov/). 
+
+I'm passionate about using computational methods to develop high impact, low-cost healthcare solutions, at scale; and increasing representation of minority populations in biomedical research.
+
 
