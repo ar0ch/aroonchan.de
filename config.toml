@@ -10,7 +10,7 @@ title = "Aroon T. Chande"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018-2020 Aroon T. Chande"
+copyright = "&copy; 2018-2023 Aroon T. Chande"
 
 theme = "academic"
 enableEmoji = true
@@ -51,7 +51,7 @@ privacy_pack = true
 
   # Your details.
   name = "Aroon Chande"
-  role = "Bioinformatics Engineer"
+  role = "Senior Bioinformatics Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
